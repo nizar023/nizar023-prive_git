@@ -1,6 +1,4 @@
 #EXTM3U 
-####           GetHub AR            #####
-
 #EXTINF: -1 tvg-id="IFMTV.tn" tvg-chno="1" tvg-logo="https://www.ifm.tn/images/logo.png" group-title="GetHub AR", IFM TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RadioIfmTunisia/live
 #EXTINF: -1 tvg-id="JawharaFM.jo" tvg-chno="2" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" group-title="GetHub AR", Jawhara FM
@@ -25,9 +23,6 @@ https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
 #EXTINF: -1 tvg-id="WeyyakNawaem.ae" tvg-chno="12" tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" group-title="GetHub AR", Weyyak Nawaem
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-
-#####            OSN          ####
-
 #EXTINF: -1 tvg-chno="44" group-title="OSN", AFLAM 1
 http://yassooo.com:8080/Manaf/Manaf123/80188
 #EXTINF: -1 tvg-chno="45" group-title="OSN", AFLAM 2
@@ -126,12 +121,6 @@ http://yassooo.com:8080/Manaf/Manaf123/80190
 http://yassooo.com:8080/Manaf/Manaf123/80223
 #EXTINF: -1 tvg-chno="43" group-title="OSN", OSN Kids Zone
 http://yassooo.com:8080/Manaf/Manaf123/80189
-
-
-#####            Bein Entertaiment          ####
-
-
-
 #EXTINF: -1 tvg-chno="4" group-title="Bein Entertaiment", beIN Movies HD1
 http://yassooo.com:8080/Manaf/Manaf123/80183
 #EXTINF: -1 tvg-chno="5" group-title="Bein Entertaiment", beIN Movies HD2
@@ -194,10 +183,6 @@ http://yassooo.com:8080/Manaf/Manaf123/85890
 http://yassooo.com:8080/Manaf/Manaf123/83323
 #EXTINF: -1 tvg-chno="2" group-title="Bein Entertaiment", beIN Sports Global
 http://yassooo.com:8080/Manaf/Manaf123/83322
-
-#####            Reel PX          ####
-
-
 #EXTINF: -1 tvg-chno="10" group-title="Reel PX", Reel PX Cinema HD
 http://yassooo.com:8080/Manaf/Manaf123/80244
 #EXTINF: -1 tvg-chno="3" group-title="Reel PX", Reel PX Family HD
@@ -238,10 +223,6 @@ http://yassooo.com:8080/Manaf/Manaf123/80235
 http://yassooo.com:8080/Manaf/Manaf123/80239
 #EXTINF: -1 tvg-chno="12" group-title="Reel PX", Fix & Foxi
 http://yassooo.com:8080/Manaf/Manaf123/80242
-
-
-####           Mbc Groupe          ####
-
 #EXTINF: -1 group-title="Mbc Groupe", MBC1 HD
 http://yassooo.com:8080/Manaf/Manaf123/80275
 #EXTINF: -1 group-title="Mbc Groupe", MBC2 HD
@@ -286,13 +267,6 @@ http://yassooo.com:8080/Manaf/Manaf123/80256
 http://yassooo.com:8080/Manaf/Manaf123/80255
 #EXTINF: -1 group-title="Mbc Groupe", MBC Drama SD
 http://yassooo.com:8080/Manaf/Manaf123/80254
-
-
-
-
-####            Majestic         ####
-
-
 #EXTINF: -1 tvg-chno="1" group-title="Majestic", Majestic Cinema 1 HD
 http://yassooo.com:8080/Manaf/Manaf123/91680
 #EXTINF: -1 tvg-chno="2" group-title="Majestic", Majestic Cinema 2 HD
@@ -309,10 +283,6 @@ http://yassooo.com:8080/Manaf/Manaf123/91675
 http://yassooo.com:8080/Manaf/Manaf123/91674
 #EXTINF: -1 tvg-chno="8" group-title="Majestic", Majestic Kids HD
 http://yassooo.com:8080/Manaf/Manaf123/91673
-
-####            Shahid         ####
-
-
 #EXTINF: -1 tvg-chno="1" group-title="Shahid", Shahid Action
 http://yassooo.com:8080/Manaf/Manaf123/79876
 #EXTINF: -1 tvg-chno="2" group-title="Shahid", Shahid Aflam 1
@@ -337,12 +307,22 @@ http://yassooo.com:8080/Manaf/Manaf123/79866
 http://yassooo.com:8080/Manaf/Manaf123/79865
 #EXTINF: -1 tvg-chno="4" group-title="Shahid", Shahid Anime
 http://yassooo.com:8080/Manaf/Manaf123/79873
-
-
-
-####            Egy Cinema         ####
-
-
+#EXTINF: -1 tvg-name="|Fox| IPFox Movies Arabic" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10534.png" group-title="IPFox Movies", IPFox Movies Arabic
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/8
+#EXTINF: -1 tvg-name="|Fox| IPFox Movies Classic" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/11062.png" group-title="IPFox Movies", IPFox Movies Classic
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/9
+#EXTINF: -1 tvg-name="|Fox| IPFox Movies Action" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10503.png" group-title="IPFox Movies", IPFox Movies Action
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/7
+#EXTINF: -1 tvg-name="|Fox| IPFox Movies Comedy" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10529.png" group-title="IPFox Movies", IPFox Movies Comedy
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/11
+#EXTINF: -1 tvg-name="|Fox| IPFox Movies Drama" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10530.png" group-title="IPFox Movies", IPFox Movies Drama
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/12
+#EXTINF: -1 tvg-name="|Fox| IPFox Movies Horror" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10531.png" group-title="IPFox Movies", IPFox Movies Horror
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/13
+#EXTINF: -1 tvg-name="|Fox| IPFox Movies Thriller" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10533.png" group-title="IPFox Movies", IPFox Movies Thriller
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/15
+#EXTINF: -1 tvg-name="|Fox| IPFox Movies Kids" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10532.png" group-title="IPFox Movies", IPFox Movies Kids
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/14
 #EXTINF: -1 tvg-chno="1" group-title="Egy Cinema", Egy Cinema Action
 http://yassooo.com:8080/Manaf/Manaf123/79864
 #EXTINF: -1 tvg-chno="3" group-title="Egy Cinema", Egy Cinema Arabic
@@ -381,11 +361,26 @@ http://yassooo.com:8080/Manaf/Manaf123/79851
 http://yassooo.com:8080/Manaf/Manaf123/79850
 #EXTINF: -1 group-title="Egy Cinema", Egy Cinema Mandarin
 http://yassooo.com:8080/Manaf/Manaf123/79849
-
-
-####            Netflix AR         ####
-
-
+#EXTINF: -1 tvg-name="|Fox| showtime 1" group-title="Showtime", showtime 1
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31899
+#EXTINF: -1 tvg-name="|Fox| showtime 2" group-title="Showtime", showtime 2
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31898
+#EXTINF: -1 tvg-name="|Fox| showtime 3" group-title="Showtime", showtime 3
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31897
+#EXTINF: -1 tvg-name="|Fox| showtime 4" group-title="Showtime", showtime 4
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31896
+#EXTINF: -1 tvg-name="|Fox| showtime 5" group-title="Showtime", showtime 5
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31895
+#EXTINF: -1 tvg-name="|Fox| showtime 6" group-title="Showtime", showtime 6
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31894
+#EXTINF: -1 tvg-name="|Fox| showtime 7" group-title="Showtime", showtime 7
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31893
+#EXTINF: -1 tvg-name="|Fox| showtime 8" group-title="Showtime", showtime 8
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31892
+#EXTINF: -1 tvg-name="|Fox| showtime 9" group-title="Showtime", showtime 9
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31891
+#EXTINF: -1 tvg-name="|Fox| showtime 10" group-title="Showtime", showtime 10
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31890
 #EXTINF: -1 group-title="Netflix", Netflix Action
 http://yassooo.com:8080/Manaf/Manaf123/79885
 #EXTINF: -1 group-title="Netflix", Netflix Arabic
@@ -404,29 +399,38 @@ http://yassooo.com:8080/Manaf/Manaf123/79879
 http://yassooo.com:8080/Manaf/Manaf123/79878
 #EXTINF: -1 group-title="Netflix", Netflix Sci-Fi
 http://yassooo.com:8080/Manaf/Manaf123/79877
-
-####            Netflix FR         ####
-
-#EXTINF: -1 tvg-chno="1" group-title="France", NETFLIX FILM 1 HD
-http://yassooo.com:8080/Manaf/Manaf123/81276
-#EXTINF: -1 tvg-chno="2" group-title="France", NETFLIX FILM 2 HD
-http://yassooo.com:8080/Manaf/Manaf123/81275
-#EXTINF: -1 tvg-chno="3" group-title="France", NETFLIX FILM 3 HD
-http://yassooo.com:8080/Manaf/Manaf123/81274
-#EXTINF: -1 tvg-chno="4" group-title="France", NETFLIX FILM 4 HD
-http://yassooo.com:8080/Manaf/Manaf123/81273
-#EXTINF: -1 tvg-chno="5" group-title="France", NETFLIX FILM 5 HD
-http://yassooo.com:8080/Manaf/Manaf123/81272
-#EXTINF: -1 tvg-chno="6" group-title="France", NETFLIX FILM 6 HD
-http://yassooo.com:8080/Manaf/Manaf123/81271
-#EXTINF: -1 tvg-chno="7" group-title="France", NETFLIX FILM 7 HD
-http://yassooo.com:8080/Manaf/Manaf123/81270
-#EXTINF: -1 tvg-chno="8" group-title="France", NETFLIX FILM 8 HD
-http://yassooo.com:8080/Manaf/Manaf123/81269
-
-####            French Movies         #### 
-
-
+#EXTINF: -1 tvg-name="|Fox| Box Aflam 1" group-title="Box", Box Aflam 1
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30476
+#EXTINF: -1 tvg-name="|Fox| Box Aflam 2" group-title="Box", Box Aflam 2
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30475
+#EXTINF: -1 tvg-name="|Fox| Box CLASSIC" group-title="Box", Box CLASSIC
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30471
+#EXTINF: -1 tvg-name="|Fox| Box ACTION 1" group-title="Box", Box ACTION 1
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30474
+#EXTINF: -1 tvg-name="|Fox| Box ACTION 2" group-title="Box", Box ACTION 2
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30473
+#EXTINF: -1 tvg-name="|Fox| Box HORROR" group-title="Box", Box HORROR
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30472
+#EXTINF: -1 tvg-name="|Fox| Ostora Arabic 1" group-title="Ostora", Ostora Arabic 1
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31889
+#EXTINF: -1 tvg-name="|Fox| Ostora Arabic 2" group-title="Ostora", Ostora Arabic 2
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31888
+#EXTINF: -1 tvg-name="|Fox| Ostora Arabic 3" group-title="Ostora", Ostora Arabic 3
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31887
+#EXTINF: -1 tvg-name="|Fox| Ostora Arabic 4" group-title="Ostora", Ostora Arabic 4
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31886
+#EXTINF: -1 tvg-name="|Fox| Ostora Arabic 5" group-title="Ostora", Ostora Arabic 5
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31885
+#EXTINF: -1 tvg-name="|Fox| Ostora Arabic 6" group-title="Ostora", Ostora Arabic 6
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31884
+#EXTINF: -1 tvg-name="|Fox| Ostora Arabic 7" group-title="Ostora", Ostora Arabic 7
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31883
+#EXTINF: -1 tvg-name="|Fox| Ostora Arabic 8" group-title="Ostora", Ostora Arabic 8
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31882
+#EXTINF: -1 tvg-name="|Fox| Ostora Arabic 9" group-title="Ostora", Ostora Arabic 9
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31881
+#EXTINF: -1 tvg-name="|Fox| Ostora Arabic 10" group-title="Ostora", Ostora Arabic 10
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31880
 #EXTINF: -1 tvg-chno="16" group-title="Netflix FR", NETFLIX FILM 1 HD
 http://yassooo.com:8080/Manaf/Manaf123/81276
 #EXTINF: -1 tvg-chno="2" group-title="Netflix FR", NETFLIX FILM 2 HD
@@ -455,11 +459,6 @@ http://yassooo.com:8080/Manaf/Manaf123/36503
 http://yassooo.com:8080/Manaf/Manaf123/36502
 #EXTINF: -1 tvg-chno="29" group-title="French Movies", FRENCH MOVIES 6
 http://yassooo.com:8080/Manaf/Manaf123/36501
-
-
-####            Pluto          ####
-
-
 #EXTINF: -1 tvg-id="PlutoTVAction.us" tvg-chno="42" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="Pluto", Pluto TV Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF: -1 tvg-id="PlutoTVActionSports.us" tvg-chno="43" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Pluto", Pluto TV Action Sports
@@ -578,19 +577,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb8a8b2619a0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF: -1 tvg-id="PlutoTVYoga.us" tvg-chno="100" tvg-logo="http://images.pluto.tv/channels/60803e541a829e0008e91641/solidLogoPNG.png" group-title="Pluto", Pluto TV Yoga
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd
-
-
-####            France          ####
-
-#EXTINF: -1 group-title="France", TeleSud France
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/122088
-#EXTINF: -1 group-title="France", RT FRANCE
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/122087
-#EXTINF: -1 group-title="France", TV5 MONDE INFO
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/122085
-####            Belgique         ####
-
-
 #EXTINF: -1 tvg-chno="1" group-title="Belgique", La Une
 http://yassooo.com:8080/Manaf/Manaf123/81298
 #EXTINF: -1 tvg-chno="2" group-title="Belgique", La Deux
@@ -603,10 +589,6 @@ http://yassooo.com:8080/Manaf/Manaf123/81295
 http://yassooo.com:8080/Manaf/Manaf123/81294
 #EXTINF: -1 tvg-chno="6" group-title="Belgique", Club RTL
 http://yassooo.com:8080/Manaf/Manaf123/81293
-
-####           GetHub FR            #####
-
-
 #EXTINF: -1 tvg-id="JustepourRire.us" tvg-chno="1" tvg-logo="http://images.pluto.tv/channels/60afa1508284e60007163c08/solidLogoPNG.png" group-title="GitHub FR", Juste pour Rire
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
 #EXTINF: -1 tvg-id="7ALimoges.fr" tvg-chno="2" tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="GitHub FR", 7ALimoges

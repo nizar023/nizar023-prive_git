@@ -2487,8 +2487,6 @@ http://yassooo.com:8080/Manaf/Manaf123/98913
 http://geo-stream.xyz:8880/live/54393917/67737458/466086.ts
 #EXTINF: -1 group-title="SSC SPORTS", SSC5
 http://geo-stream.xyz:8880/live/54393917/67737458/466093.ts
-#EXTINF: -1 group-title="SSC SPORTS", ####           Autres         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="SSC SPORTS", SSC1 HD
 http://yassooo.com:8080/Manaf/Manaf123/98917
 #EXTINF: -1 group-title="SSC SPORTS", SSC2 HD

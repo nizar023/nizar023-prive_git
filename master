@@ -2123,6 +2123,8 @@ http://yassooo.com:8080/Manaf/Manaf123/98913
 http://yassooo.com:8080/Manaf/Manaf123/98912
 #EXTINF: -1 group-title="SSC SPORTS", SSC7 HD
 http://yassooo.com:8080/Manaf/Manaf123/98911
+#EXTINF: -1 group-title="Yassine Tv", ####            Yassine Tv          ####
+https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Yassine Tv", beIN Sports Premium 01 HEVC
 http://yassooo.com:8080/Manaf/Manaf123/80061
 #EXTINF: -1 group-title="Yassine Tv", beIN Sports Premium 02 HEVC
@@ -2339,5 +2341,3 @@ http://geo-stream.xyz:8880/live/54393917/67737458/99283.ts
 http://geo-stream.xyz:8880/live/54393917/67737458/99284.ts
 #EXTINF: -1 group-title="Yassine Tv", ELEVEN  6
 http://geo-stream.xyz:8880/live/54393917/67737458/99285.ts
-#EXTINF: -1 group-title="Yassine Tv", ####            Yassine Tv          ####
-https://streaming.toutech.net/live/index.m3u8

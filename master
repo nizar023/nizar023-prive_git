@@ -1,8 +1,4 @@
 #EXTM3U 
-#EXTINF: -1 group-title="GitHub AR", ####            GitHub AR         ####
-https://streaming.toutech.net/live/index.m3u8
-#EXTINF: -1 group-title="GitHub AR", Coronavirus (COVID-19)
-http://toptentv.xyz:8080/3143335272860882/2598854265/228997
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://www.ifm.tn/images/logo.png" group-title="GitHub AR", IFM TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RadioIfmTunisia/live
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" group-title="GitHub AR", Jawhara FM
@@ -15,6 +11,8 @@ https://streaming.toutech.net/live/jtv/index.m3u8
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
 #EXTINF: -1 tvg-chno="6" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" group-title="GitHub AR", Sahel TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF: -1 group-title="GitHub AR", Coronavirus (COVID-19)
+http://toptentv.xyz:8080/3143335272860882/2598854265/228997
 #EXTINF: -1 tvg-chno="7" group-title="GitHub AR", Bee Movies
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
 #EXTINF: -1 tvg-chno="8" tvg-logo="https://i.postimg.cc/43sPGSLV/beetheater.jpg" group-title="GitHub AR", Bee Theater
@@ -27,8 +25,6 @@ https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
 #EXTINF: -1 tvg-chno="12" tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" group-title="GitHub AR", Weyyak Nawaem
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-#EXTINF: -1 group-title="OSN", ####            OSN         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-chno="44" group-title="OSN", AFLAM 1
 http://yassooo.com:8080/Manaf/Manaf123/80188
 #EXTINF: -1 tvg-chno="45" group-title="OSN", AFLAM 2
@@ -127,8 +123,6 @@ http://yassooo.com:8080/Manaf/Manaf123/80190
 http://yassooo.com:8080/Manaf/Manaf123/80223
 #EXTINF: -1 tvg-chno="43" group-title="OSN", OSN Kids Zone
 http://yassooo.com:8080/Manaf/Manaf123/80189
-#EXTINF: -1 group-title="Bein Entertaiment", ####            Bein Entertaiment        ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-chno="4" group-title="Bein Entertaiment", beIN Movies HD1
 http://yassooo.com:8080/Manaf/Manaf123/80183
 #EXTINF: -1 tvg-chno="5" group-title="Bein Entertaiment", beIN Movies HD2
@@ -191,8 +185,6 @@ http://yassooo.com:8080/Manaf/Manaf123/85890
 http://yassooo.com:8080/Manaf/Manaf123/83323
 #EXTINF: -1 tvg-chno="2" group-title="Bein Entertaiment", beIN Sports Global
 http://yassooo.com:8080/Manaf/Manaf123/83322
-#EXTINF: -1 group-title="Reel PX", ####            Reel PX          ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-chno="10" group-title="Reel PX", Reel PX Cinema HD
 http://yassooo.com:8080/Manaf/Manaf123/80244
 #EXTINF: -1 tvg-chno="3" group-title="Reel PX", Reel PX Family HD
@@ -233,8 +225,6 @@ http://yassooo.com:8080/Manaf/Manaf123/80235
 http://yassooo.com:8080/Manaf/Manaf123/80239
 #EXTINF: -1 tvg-chno="12" group-title="Reel PX", Fix & Foxi
 http://yassooo.com:8080/Manaf/Manaf123/80242
-#EXTINF: -1 group-title="Mbc Groupe", ####             Mbc Groupe         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Mbc Groupe", MBC1 HD
 http://yassooo.com:8080/Manaf/Manaf123/80275
 #EXTINF: -1 group-title="Mbc Groupe", MBC2 HD
@@ -279,8 +269,6 @@ http://yassooo.com:8080/Manaf/Manaf123/80256
 http://yassooo.com:8080/Manaf/Manaf123/80255
 #EXTINF: -1 group-title="Mbc Groupe", MBC Drama SD
 http://yassooo.com:8080/Manaf/Manaf123/80254
-#EXTINF: -1 group-title="Majestic", ####             Majestic          ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-chno="1" group-title="Majestic", Majestic Cinema 1 HD
 http://yassooo.com:8080/Manaf/Manaf123/91680
 #EXTINF: -1 tvg-chno="2" group-title="Majestic", Majestic Cinema 2 HD
@@ -297,8 +285,6 @@ http://yassooo.com:8080/Manaf/Manaf123/91675
 http://yassooo.com:8080/Manaf/Manaf123/91674
 #EXTINF: -1 tvg-chno="8" group-title="Majestic", Majestic Kids HD
 http://yassooo.com:8080/Manaf/Manaf123/91673
-#EXTINF: -1 group-title="Shahid", ####            Shahid         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-chno="1" group-title="Shahid", Shahid Action
 http://yassooo.com:8080/Manaf/Manaf123/79876
 #EXTINF: -1 tvg-chno="2" group-title="Shahid", Shahid Aflam 1
@@ -323,8 +309,6 @@ http://yassooo.com:8080/Manaf/Manaf123/79866
 http://yassooo.com:8080/Manaf/Manaf123/79865
 #EXTINF: -1 tvg-chno="4" group-title="Shahid", Shahid Anime
 http://yassooo.com:8080/Manaf/Manaf123/79873
-#EXTINF: -1 group-title="IPFox Movies", ####            IPFox Movies         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-name="|Fox| IPFox Movies Arabic" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10534.png" group-title="IPFox Movies", IPFox Movies Arabic
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/8
 #EXTINF: -1 tvg-name="|Fox| IPFox Movies Classic" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/11062.png" group-title="IPFox Movies", IPFox Movies Classic
@@ -341,8 +325,6 @@ http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/13
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/15
 #EXTINF: -1 tvg-name="|Fox| IPFox Movies Kids" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10532.png" group-title="IPFox Movies", IPFox Movies Kids
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/14
-#EXTINF: -1 group-title="Egy Cinema", ####           Egy Cinema         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-chno="1" group-title="Egy Cinema", Egy Cinema Action
 http://yassooo.com:8080/Manaf/Manaf123/79864
 #EXTINF: -1 tvg-chno="3" group-title="Egy Cinema", Egy Cinema Arabic
@@ -381,8 +363,6 @@ http://yassooo.com:8080/Manaf/Manaf123/79851
 http://yassooo.com:8080/Manaf/Manaf123/79850
 #EXTINF: -1 group-title="Egy Cinema", Egy Cinema Mandarin
 http://yassooo.com:8080/Manaf/Manaf123/79849
-#EXTINF: -1 group-title="Showtime", ####            Showtime         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-name="|Fox| showtime 1" group-title="Showtime", showtime 1
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31899
 #EXTINF: -1 tvg-name="|Fox| showtime 2" group-title="Showtime", showtime 2
@@ -403,8 +383,6 @@ http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31892
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31891
 #EXTINF: -1 tvg-name="|Fox| showtime 10" group-title="Showtime", showtime 10
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31890
-#EXTINF: -1 group-title="Box", ####            Box        ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-name="|Fox| Box Aflam 1" group-title="Box", Box Aflam 1
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30476
 #EXTINF: -1 tvg-name="|Fox| Box Aflam 2" group-title="Box", Box Aflam 2
@@ -417,8 +395,6 @@ http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30474
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30473
 #EXTINF: -1 tvg-name="|Fox| Box HORROR" group-title="Box", Box HORROR
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30472
-#EXTINF: -1 group-title="Ostora", ####            Ostora          ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-name="|Fox| Ostora Arabic 1" group-title="Ostora", Ostora Arabic 1
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31889
 #EXTINF: -1 tvg-name="|Fox| Ostora Arabic 2" group-title="Ostora", Ostora Arabic 2
@@ -439,8 +415,6 @@ http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31882
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31881
 #EXTINF: -1 tvg-name="|Fox| Ostora Arabic 10" group-title="Ostora", Ostora Arabic 10
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31880
-#EXTINF: -1 group-title="Netflix AR", ####            Netflix AR         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Netflix AR", Netflix Action
 http://yassooo.com:8080/Manaf/Manaf123/79885
 #EXTINF: -1 group-title="Netflix AR", Netflix Arabic
@@ -459,8 +433,6 @@ http://yassooo.com:8080/Manaf/Manaf123/79879
 http://yassooo.com:8080/Manaf/Manaf123/79878
 #EXTINF: -1 group-title="Netflix AR", Netflix Sci-Fi
 http://yassooo.com:8080/Manaf/Manaf123/79877
-#EXTINF: -1 group-title="Netflix FR", ####            Netflix FR         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-chno="16" group-title="Netflix FR", NETFLIX FILM 1 HD
 http://yassooo.com:8080/Manaf/Manaf123/81276
 #EXTINF: -1 tvg-chno="2" group-title="Netflix FR", NETFLIX FILM 2 HD
@@ -477,8 +449,6 @@ http://yassooo.com:8080/Manaf/Manaf123/81271
 http://yassooo.com:8080/Manaf/Manaf123/81270
 #EXTINF: -1 tvg-chno="8" group-title="Netflix FR", NETFLIX FILM 8 HD
 http://yassooo.com:8080/Manaf/Manaf123/81269
-#EXTINF: -1 group-title="French Movies", ####           French Movies         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-chno="24" group-title="French Movies", FRENCH MOVIES 1
 http://yassooo.com:8080/Manaf/Manaf123/36506
 #EXTINF: -1 tvg-chno="25" group-title="French Movies", FRENCH MOVIES 2
@@ -491,8 +461,6 @@ http://yassooo.com:8080/Manaf/Manaf123/36503
 http://yassooo.com:8080/Manaf/Manaf123/36502
 #EXTINF: -1 tvg-chno="29" group-title="French Movies", FRENCH MOVIES 6
 http://yassooo.com:8080/Manaf/Manaf123/36501
-#EXTINF: -1 group-title="Pluto", ####            GitHub AR         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-chno="42" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="Pluto", Pluto TV Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF: -1 tvg-chno="43" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Pluto", Pluto TV Action Sports
@@ -611,8 +579,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb8a8b2619a0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF: -1 tvg-chno="100" tvg-logo="http://images.pluto.tv/channels/60803e541a829e0008e91641/solidLogoPNG.png" group-title="Pluto", Pluto TV Yoga
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd
-#EXTINF: -1 group-title="Belgique", ####            Belgique        ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-chno="1" group-title="Belgique", La Une
 http://yassooo.com:8080/Manaf/Manaf123/81298
 #EXTINF: -1 tvg-chno="2" group-title="Belgique", La Deux
@@ -625,8 +591,6 @@ http://yassooo.com:8080/Manaf/Manaf123/81295
 http://yassooo.com:8080/Manaf/Manaf123/81294
 #EXTINF: -1 tvg-chno="6" group-title="Belgique", Club RTL
 http://yassooo.com:8080/Manaf/Manaf123/81293
-#EXTINF: -1 group-title="GitHub FR", ####           GitHub FR        ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="http://images.pluto.tv/channels/60afa1508284e60007163c08/solidLogoPNG.png" group-title="GitHub FR", Juste pour Rire
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="GitHub FR", 7ALimoges
@@ -743,8 +707,6 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 #EXTINF: -1 tvg-chno="117" tvg-logo="https://i.postimg.cc/mZJXXMkp/wildside.png" group-title="GitHub FR", Wildside TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF: -1 group-title="France", ####            France         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="France", A LA CARTE 1 HD
 http://toptentv.xyz:8080/3143335272860882/2598854265/26505
 #EXTINF: -1 group-title="France", A LA CARTE 2 HD
@@ -833,8 +795,6 @@ http://toptentv.xyz:8080/3143335272860882/2598854265/36639
 http://toptentv.xyz:8080/3143335272860882/2598854265/149420
 #EXTINF: -1 group-title="France", WARNER TV HD
 http://toptentv.xyz:8080/3143335272860882/2598854265/149421
-#EXTINF: -1 group-title="Canada", ####            Canada        ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Canada", ARTV
 http://toptentv.xyz:8080/3143335272860882/2598854265/228998
 #EXTINF: -1 group-title="Canada", CANAL SAVOIR
@@ -889,8 +849,6 @@ http://toptentv.xyz:8080/3143335272860882/2598854265/229021
 http://toptentv.xyz:8080/3143335272860882/2598854265/229022
 #EXTINF: -1 group-title="Canada", Z TELE
 http://toptentv.xyz:8080/3143335272860882/2598854265/229016
-#EXTINF: -1 group-title="Canal + Afrique", ####            Canal + Afrique        ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Canal + Afrique", Canal+ Ouest
 http://toptentv.xyz:8080/3143335272860882/2598854265/219827
 #EXTINF: -1 group-title="Canal + Afrique", Canal+ Family Ouest
@@ -1047,8 +1005,6 @@ http://toptentv.xyz:8080/3143335272860882/2598854265/219913
 http://toptentv.xyz:8080/3143335272860882/2598854265/219914
 #EXTINF: -1 group-title="Canal + Afrique", France 24
 http://toptentv.xyz:8080/3143335272860882/2598854265/219915
-#EXTINF: -1 group-title="Afrique", ####           Afrique        ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Afrique", AFRICA NEWS
 http://toptentv.xyz:8080/3143335272860882/2598854265/230179
 #EXTINF: -1 group-title="Afrique", AFRICANEWS (FERANCE)
@@ -1093,8 +1049,6 @@ http://toptentv.xyz:8080/3143335272860882/2598854265/230198
 http://toptentv.xyz:8080/3143335272860882/2598854265/230199
 #EXTINF: -1 group-title="Afrique", PLEX TV
 http://toptentv.xyz:8080/3143335272860882/2598854265/230200
-#EXTINF: -1 group-title="Rakuten", ####            Rakuten        ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Rakuten", Action Movies
 http://toptentv.xyz:8080/3143335272860882/2598854265/234027
 #EXTINF: -1 group-title="Rakuten", Comedy Movies
@@ -1109,8 +1063,6 @@ http://toptentv.xyz:8080/3143335272860882/2598854265/234097
 http://toptentv.xyz:8080/3143335272860882/2598854265/234103
 #EXTINF: -1 group-title="Rakuten", Documentaries
 http://toptentv.xyz:8080/3143335272860882/2598854265/234082
-#EXTINF: -1 group-title="Kimo", ####            BEIN 4K         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Kimo", beIN SPORTS MAX 1 4K
 http://yassooo.com:8080/Manaf/Manaf123/120006
 #EXTINF: -1 group-title="Kimo", beIN SPORTS MAX 2 4K
@@ -1133,8 +1085,6 @@ http://yassooo.com:8080/Manaf/Manaf123/80089
 http://yassooo.com:8080/Manaf/Manaf123/80088
 #EXTINF: -1 group-title="Kimo", Bein Sports Premium 03 4K
 http://yassooo.com:8080/Manaf/Manaf123/80087
-#EXTINF: -1 group-title="Kimo", ####            BEIN FHD         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Kimo", BEIN SPORTS MAX 1 FHD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120808
 #EXTINF: -1 group-title="Kimo", BEIN SPORTS MAX 2 FHD
@@ -1183,8 +1133,6 @@ http://yassooo.com:8080/Manaf/Manaf123/80132
 http://yassooo.com:8080/Manaf/Manaf123/80131
 #EXTINF: -1 group-title="Kimo", Bein Sports 7 FHD
 http://yassooo.com:8080/Manaf/Manaf123/80130
-#EXTINF: -1 group-title="Kimo", ####            BEIN HD         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Kimo", beIN SPORTS MAX HD1
 http://yassooo.com:8080/Manaf/Manaf123/120012
 #EXTINF: -1 group-title="Kimo", beIN SPORTS MAX HD2
@@ -1245,8 +1193,6 @@ http://yassooo.com:8080/Manaf/Manaf123/80123
 http://yassooo.com:8080/Manaf/Manaf123/80121
 #EXTINF: -1 group-title="Kimo", Bein Sports 7 HD
 http://yassooo.com:8080/Manaf/Manaf123/80120
-#EXTINF: -1 group-title="Kimo", ####           BEIN SD        ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Kimo", Bein Sports Premium 1 SD
 http://yassooo.com:8080/Manaf/Manaf123/80116
 #EXTINF: -1 group-title="Kimo", Bein Sports Premium 2 SD
@@ -1261,8 +1207,6 @@ http://yassooo.com:8080/Manaf/Manaf123/80112
 http://yassooo.com:8080/Manaf/Manaf123/80111
 #EXTINF: -1 group-title="Kimo", Bein Sports 4 SD
 http://yassooo.com:8080/Manaf/Manaf123/80110
-#EXTINF: -1 group-title="Bein Sport", ####            Bein Sport         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Bein Sport", |AR| BEIN SPORTS 1 h265
 http://toptentv.xyz:8080/3143335272860882/2598854265/28261
 #EXTINF: -1 group-title="Bein Sport", |AR| BEIN SPORTS 10 h265
@@ -1525,8 +1469,6 @@ http://toptentv.xyz:8080/3143335272860882/2598854265/242396
 http://toptentv.xyz:8080/3143335272860882/2598854265/242400
 #EXTINF: -1 group-title="Bein Sport", beIN SPORTS MAX 4 SD
 http://toptentv.xyz:8080/3143335272860882/2598854265/242404
-#EXTINF: -1 group-title="Sport", ####            Sports         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Sport", |AU| beIN SPORTS HD 1
 http://toptentv.xyz:8080/3143335272860882/2598854265/120737
 #EXTINF: -1 group-title="Sport", |AU| beIN SPORTS HD 2
@@ -2093,8 +2035,6 @@ http://toptentv.xyz:8080/3143335272860882/2598854265/122687
 http://toptentv.xyz:8080/3143335272860882/2598854265/122688
 #EXTINF: -1 group-title="Sport", UK: SKY SPORTS PREMIER LEAGUE FHD
 http://toptentv.xyz:8080/3143335272860882/2598854265/122689
-#EXTINF: -1 group-title="SSC SPORTS", ####            SSC SPORTS         ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="SSC SPORTS", SSC 1 HD
 http://yassooo.com:8080/Manaf/Manaf123/98917
 #EXTINF: -1 group-title="SSC SPORTS", SSC 2 HD
@@ -2123,8 +2063,6 @@ http://yassooo.com:8080/Manaf/Manaf123/98913
 http://yassooo.com:8080/Manaf/Manaf123/98912
 #EXTINF: -1 group-title="SSC SPORTS", SSC7 HD
 http://yassooo.com:8080/Manaf/Manaf123/98911
-#EXTINF: -1 group-title="Yassine Tv", ####            Yassine Tv          ####
-https://streaming.toutech.net/live/index.m3u8
 #EXTINF: -1 group-title="Yassine Tv", beIN Sports Premium 01 HEVC
 http://yassooo.com:8080/Manaf/Manaf123/80061
 #EXTINF: -1 group-title="Yassine Tv", beIN Sports Premium 02 HEVC
